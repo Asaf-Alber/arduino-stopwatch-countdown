@@ -52,7 +52,7 @@ A real-time embedded system built with Arduino Uno that functions as both a **st
 
 ## 📷 Demo
 
-![Hardware Demo](images/IMG_9317.jpg)
+![Hardware Demo](IMG_9317.jpeg)
 
 
 ---
