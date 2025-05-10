@@ -41,14 +41,6 @@ A real-time embedded system built with Arduino Uno that functions as both a **st
 
 ---
 
-## 📁 File Structure
-
-├── stopwatch_countdown.ino // Main Arduino sketch
-├── README.md // Project documentation
-└── images/ // (Optional) Photos or demo GIFs
-
-
----
 
 ## 📷 Demo
 
@@ -87,4 +79,5 @@ Built as a personal embedded systems learning project using Arduino.
 
 ## 📌 License
 
-MIT License (if you want to allow others to use your code)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
